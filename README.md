@@ -4,6 +4,12 @@ __WORK IN PROGRESS__
 
 QR code generator server and cli tool
 
+## Install
+
+```sh
+$ go get -u github.com/vasyahuyasa/qrcoded/cmd/qrcoded
+```
+
 ## Start server
 
 ```
