@@ -21,7 +21,11 @@ Usage of ./qrcoded:
         port (default 80)
 ```
 
+`$ ./qrcoded -p 80 -d`
+
 ## Make query
+
+Open in browser
 
 `http://localhost:80/?q=test&s=1024&r=l`
 
